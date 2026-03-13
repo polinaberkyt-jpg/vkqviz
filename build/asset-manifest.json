@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vkqviz/static/css/main.e95401b3.css",
+    "main.js": "/vkqviz/static/js/main.050b08d9.js",
+    "index.html": "/vkqviz/index.html",
+    "main.e95401b3.css.map": "/vkqviz/static/css/main.e95401b3.css.map",
+    "main.050b08d9.js.map": "/vkqviz/static/js/main.050b08d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e95401b3.css",
+    "static/js/main.050b08d9.js"
+  ]
+}

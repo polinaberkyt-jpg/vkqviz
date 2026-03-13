@@ -1,0 +1,31 @@
+/* Основной фон приложения — глубокий серо-синий */
+.app-container {
+  background: linear-gradient(135deg, #ebf0f7 0%, #d7e1ec 100%);
+  min-height: 100vh;
+}
+
+/* Карточки с небольшим эффектом тени */
+.quiz-card {
+  border-radius: 20px !important;
+  border: none !important;
+  box-shadow: 0 10px 25px rgba(0, 64, 128, 0.05) !important;
+  overflow: hidden;
+}
+
+/* Стили для картинок внутри вопросов */
+.question-image {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-bottom: 2px solid #e1e8f0;
+}
+
+/* Кастомные кнопки в сине-серых тонах */
+.answer-button {
+  transition: transform 0.2s ease, background-color 0.3s ease !important;
+  border-radius: 12px !important;
+}
+
+.answer-button:active {
+  transform: scale(0.98);
+}
